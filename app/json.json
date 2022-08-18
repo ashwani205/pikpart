@@ -1,0 +1,471 @@
+{
+  "responseResult": {
+    "result": {
+      "data": {
+        "bannerList": [
+          {
+            "name": "SERVICE",
+            "id": "351",
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/General%20Service.png",
+            "isMajorService": true
+          },
+          {
+            "name": "SERVICE",
+            "id": "427",
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/Road%20Assistance.png",
+            "isMajorService": true
+          },
+          {
+            "name": "SERVICE",
+            "id": "425",
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/Electrical%20Service.png",
+            "isMajorService": true
+          },
+          {
+            "name": "SERVICE",
+            "id": "421",
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/General%20Service%2020220622.png",
+            "isMajorService": true
+          }
+        ],
+        "todayFeatures": [
+          {
+            "name": "PRODUCT_CATEGORY",
+            "id": "351",
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/Monsoon%20checkups%20Banner.png",
+            "isMajorService": true
+          },
+          {
+            "name": "PRODUCT_CATEGORY",
+            "id": "351",
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/upto%205%20years%20warranty%20banner.png",
+            "isMajorService": true
+          }
+        ],
+        "services": [
+          {
+            "id": 351,
+            "name": "General Service",
+            "whiteBgImg": "https://pikpart-testing.s3.ap-south-1.amazonaws.com/serviceTypeWhiteBgIcon/gernral.png",
+            "solidBgImg": "https://pikpart-testing.s3.ap-south-1.amazonaws.com/serviceTypeSolidBgIcon/general.png",
+            "typeId": "GeneralServiceBikeTypeid",
+            "isMajorService": true
+          },
+          {
+            "id": 429,
+            "name": "Service At Home",
+            "whiteBgImg": "https://pikpart-testing.s3.ap-south-1.amazonaws.com/serviceTypeWhiteBgIcon/home-service.png",
+            "solidBgImg": "https://pikpart-testing.s3.ap-south-1.amazonaws.com/serviceTypeSolidBgIcon/home_service.png",
+            "typeId": "ServiceAtHomeBikeTypeid",
+            "isMajorService": true
+          },
+          {
+            "id": 427,
+            "name": "Roadside Assistance",
+            "whiteBgImg": "https://pikpart-testing.s3.ap-south-1.amazonaws.com/serviceTypeWhiteBgIcon/assistance.png",
+            "solidBgImg": "https://pikpart-testing.s3.ap-south-1.amazonaws.com/serviceTypeSolidBgIcon/roadside_assis_sbg.png",
+            "typeId": "RoadsideAssitanceBikeTypeid",
+            "isMajorService": true
+          },
+          {
+            "id": 421,
+            "name": "Express Service",
+            "whiteBgImg": "https://pikpart-testing.s3.ap-south-1.amazonaws.com/serviceTypeWhiteBgIcon/express.png",
+            "solidBgImg": "https://pikpart-testing.s3.ap-south-1.amazonaws.com/serviceTypeSolidBgIcon/express_sbg.png",
+            "typeId": "ExpressServiceBikeTypeid",
+            "isMajorService": true
+          },
+          {
+            "id": 423,
+            "name": "Emergency Service",
+            "whiteBgImg": "https://pikpart-testing.s3.ap-south-1.amazonaws.com/serviceTypeWhiteBgIcon/emergency-bg.png",
+            "solidBgImg": "https://pikpart-testing.s3.ap-south-1.amazonaws.com/serviceTypeSolidBgIcon/emergency.png",
+            "typeId": "EmergencyServiceBikeTypeid",
+            "isMajorService": true
+          },
+          {
+            "id": 425,
+            "name": "Health Check Service",
+            "whiteBgImg": "https://pikpart.s3.ap-south-1.amazonaws.com/serviceTypeWhiteBgIcon/search%20icon%2020220624.png",
+            "solidBgImg": "https://pikpart-testing.s3.ap-south-1.amazonaws.com/serviceTypeSolidBgIcon/healthcheck.png",
+            "typeId": "InspectionServiceBikeTypeid",
+            "isMajorService": true
+          },
+          {
+            "id": 431,
+            "name": "Service@99",
+            "whiteBgImg": "https://pikpart-testing.s3.ap-south-1.amazonaws.com/serviceTypeWhiteBgIcon/Insurance.png",
+            "solidBgImg": "https://pikpart-testing.s3.ap-south-1.amazonaws.com/serviceTypeSolidBgIcon/service99.png",
+            "typeId": "Service99BikeTypeid",
+            "isMajorService": true
+          }
+        ],
+        "product": {
+          "productBanner": [
+            {
+              "name": "PRODUCT_CATEGORY",
+              "imageUrl": "https://pikpart.s3.amazonaws.com/Gallery/Indicator.png"
+            },
+            {
+              "name": "PRODUCT_CATEGORY",
+              "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/Brake%20Shoe.png"
+            },
+            {
+              "name": "PRODUCT_CATEGORY",
+              "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/Head%20Light.png"
+            },
+            {
+              "name": "PRODUCT_CATEGORY",
+              "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/Engine%20Oil.png"
+            }
+          ],
+          "productArray": [
+            {
+              "id": 4656,
+              "name": "Rear Brake Cable",
+              "discount": 10,
+              "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/Rear%20Brake%20Cable%2020220624.png",
+              "isEcom": true
+            },
+            {
+              "id": 766,
+              "name": "Air Filter",
+              "discount": 10,
+              "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/260x160.png",
+              "isEcom": true
+            },
+            {
+              "id": 1226,
+              "name": "Brake Shoe Front",
+              "discount": 8,
+              "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/Brake%20Shoe%20Front%2020220624%20v1.png",
+              "isEcom": true
+            },
+            {
+              "id": 1354,
+              "name": "Horn Switch",
+              "discount": 5,
+              "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/Horn%20Switch%2020220624%20v1.png",
+              "isEcom": true
+            },
+            {
+              "id": 4182,
+              "name": "Clutch Repairing Kit",
+              "discount": 5,
+              "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/Clutch%20Repairing%20Kit%2020220624%20v1.png",
+              "isEcom": true
+            },
+            {
+              "id": 1430,
+              "name": "Light Switch",
+              "discount": 5,
+              "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/Light%20Switch%2020220624%20v1.png",
+              "isEcom": true
+            },
+            {
+              "id": 3640,
+              "name": "OIL PUMP GEAR",
+              "discount": 10,
+              "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productChildCategoryIcon/Oil%20Pump%20Gear.png",
+              "isEcom": true
+            },
+            {
+              "id": 1230,
+              "name": "Engine Oil 10W30 900 ml",
+              "discount": 12,
+              "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/Engine%20Oil%2010W30%20900%20m.png",
+              "isEcom": true
+            },
+            {
+              "id": 1512,
+              "name": "Flasher/Buzzer",
+              "discount": 5,
+              "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/Flasher%20Buzzer%2020220624%20v1.png",
+              "isEcom": true
+            },
+            {
+              "id": 1991,
+              "name": "Side Cowl",
+              "discount": 10,
+              "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/Side%20Cowl%2020220624_1.png",
+              "isEcom": true
+            }
+          ]
+        },
+        "announcements": [
+          {
+            "name": "PRODUCT_CATEGORY",
+            "id": "351",
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/Front%20Cover.png",
+            "isMajorService": true
+          },
+          {
+            "name": "PRODUCT_CATEGORY",
+            "id": "351",
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/Handle%20Bar%20Weight.png",
+            "isMajorService": true
+          }
+        ],
+        "offerOnAmc": [
+          {
+            "id": 39,
+            "name": "Smart Garage Saver AMC Tier-2",
+            "discountPercent": 54,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/amcIcon/522631778.82475674urban%20AMC%20design%201.png",
+            "description": "More Than 30% Reduction Of Your Bike Service Cost On AMC."
+          },
+          {
+            "id": 41,
+            "name": "Smart Garage Saver AMC Tier-3",
+            "discountPercent": 40,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/amcIcon/14858927.545718493Rural%20AMC%20design%201.png",
+            "description": "More Than 30% Reduction Of Your Bike Service Cost On AMC."
+          },
+          {
+            "id": 37,
+            "name": "Smart Garage Saver AMC Tier-1",
+            "discountPercent": 57,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/amcIcon/442844488.7583147Metro%20AMC%20design%20%281%29.png",
+            "description": "More Than 30% Reduction Of Your Bike Service Cost On AMC."
+          }
+        ],
+        "servicePackages": [],
+        "offers": [],
+        "trendingProducts": [
+          {
+            "id": 4105,
+            "name": "SIDE STAND ASSY",
+            "discount": 0,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productChildCategoryIcon/Side%20Stand%20%281%29.png",
+            "attributes": [
+              "Sturdiness",
+              "Easy to Install",
+              "Resistant to corrosion"
+            ],
+            "isEcom": true
+          },
+          {
+            "id": 3640,
+            "name": "OIL PUMP GEAR",
+            "discount": 10,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productChildCategoryIcon/Oil%20Pump%20Gear.png",
+            "attributes": [
+              "Low cost",
+              "Easy-to-use and compact",
+              "High volume efficiency",
+              "Easy maintenance",
+              "Low-noise",
+              "Small pulsation",
+              "Suitable for low speed and high speed",
+              "High suction force"
+            ],
+            "isEcom": true
+          },
+          {
+            "id": 766,
+            "name": "Air Filter",
+            "discount": 10,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/260x160.png",
+            "attributes": [
+              "Sturdiness",
+              "Durability",
+              "Dimensional accuracy",
+              "Lightweight and high strength",
+              "Reliable Performance & Easy to Use "
+            ],
+            "isEcom": true
+          },
+          {
+            "id": 2161,
+            "name": "Rear Fender",
+            "discount": 0,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/Rear%20Fender%2020220624_1.png",
+            "attributes": [
+              "Prevents mud & dirt to spoil the motorcycle",
+              "Durable material",
+              "Longer Life"
+            ],
+            "isEcom": true
+          },
+          {
+            "id": 1991,
+            "name": "Side Cowl",
+            "discount": 10,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/Side%20Cowl%2020220624_1.png",
+            "attributes": [
+              "Simple installations",
+              "Reliable",
+              "High finish"
+            ],
+            "isEcom": true
+          },
+          {
+            "id": 4656,
+            "name": "Rear Brake Cable",
+            "discount": 10,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/Rear%20Brake%20Cable%2020220624.png",
+            "attributes": [
+              "Friction Free Performance",
+              "High Tensile Strength",
+              "Bendable",
+              "Water-Proof",
+              "Thermal Stability",
+              "Fitment Accuracy",
+              "Perfectly designed",
+              "Optimum finish",
+              "Perfect thickness",
+              "High tensile strength",
+              "Perfect finish"
+            ],
+            "isEcom": true
+          },
+          {
+            "id": 1354,
+            "name": "Horn Switch",
+            "discount": 5,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/Horn%20Switch%2020220624%20v1.png",
+            "attributes": [
+              "Made of high‑quality materials",
+              "It is stable and durable and has a long service life",
+              "Easy to use and operate, very convenient",
+              "It is suitable for handlebars",
+              "This switch is waterproof and can be used in rainy days"
+            ],
+            "isEcom": true
+          },
+          {
+            "id": 1512,
+            "name": "Flasher/Buzzer",
+            "discount": 5,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/Flasher%20Buzzer%2020220624%20v1.png",
+            "attributes": [
+              "Simply Compatible",
+              "Frequency Response is Good",
+              "Size is small",
+              "Energy Consumption is less",
+              "The Range of Voltage usage is Large",
+              "Sound Pressure is high"
+            ],
+            "isEcom": true
+          },
+          {
+            "id": 1430,
+            "name": "Light Switch",
+            "discount": 5,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/Light%20Switch%2020220624%20v1.png",
+            "attributes": [
+              "Precise design",
+              "Superior finish",
+              "Easy installation"
+            ],
+            "isEcom": true
+          },
+          {
+            "id": 1230,
+            "name": "Engine Oil 10W30 900 ml",
+            "discount": 12,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/Engine%20Oil%2010W30%20900%20m.png",
+            "attributes": [
+              "Higher fuel efficiency",
+              "High initial viscosity",
+              "Good thermal stability",
+              "Premium quality",
+              "Maximum power output",
+              "Outstanding overall engine cleanliness",
+              "Enhanced engine life"
+            ],
+            "isEcom": true
+          },
+          {
+            "id": 4182,
+            "name": "Clutch Repairing Kit",
+            "discount": 5,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/Clutch%20Repairing%20Kit%2020220624%20v1.png",
+            "attributes": [
+              "Durability",
+              "Optimum strength",
+              "Dimensional accuracy",
+              "",
+              "Reliable and smooth functioning",
+              "less wear and tear effect"
+            ],
+            "isEcom": true
+          },
+          {
+            "id": 1226,
+            "name": "Brake Shoe Front",
+            "discount": 8,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/productSquareIcon/Brake%20Shoe%20Front%2020220624%20v1.png",
+            "attributes": [
+              "HIGH CARBON, GREY IRON COMPOSITION",
+              "Low noise propensity",
+              "High thermal conductivity for fade and  cracking resistance",
+              "Excellent high and low temperature  mechanical strength",
+              "Wear resistance"
+            ],
+            "isEcom": true
+          }
+        ],
+        "upcomingEvents": [
+          {
+            "name": "None",
+            "id": 0,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/Coming%20Post%20Maharashtra.png"
+          },
+          {
+            "name": "None",
+            "id": 0,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/samasti%20pur%20opening%20banner.jpg"
+          },
+          {
+            "name": "None",
+            "id": 0,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/Coming%20Post%20Nepal.png"
+          },
+          {
+            "name": "None",
+            "id": 0,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/Coming%20Post%20Munger.png"
+          },
+          {
+            "name": "None",
+            "id": 0,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/Coming%20Post%20Madhubani.png"
+          },
+          {
+            "name": "None",
+            "id": 0,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/Coming%20Post%20Singrauli.png"
+          },
+          {
+            "name": "None",
+            "id": 0,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/Coming%20Post%20Sultanpur.png"
+          },
+          {
+            "name": "None",
+            "id": 0,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/Coming%20Post%20Varanasi.png"
+          },
+          {
+            "name": "None",
+            "id": 0,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/Coming%20Post%20Dharbhanga.png"
+          },
+          {
+            "name": "None",
+            "id": 0,
+            "imageUrl": "https://pikpart.s3.ap-south-1.amazonaws.com/Gallery/Coming%20Post%20Bhusawal.png"
+          }
+        ]
+      }
+    }
+  },
+  "responseMsg": {
+    "responseMsOther": {
+      "msgArray": ""
+    },
+    "isError": false,
+    "isWarning": false
+  }
+}
